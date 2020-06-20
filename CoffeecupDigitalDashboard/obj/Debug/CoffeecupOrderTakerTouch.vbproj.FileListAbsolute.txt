@@ -1,0 +1,75 @@
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\CoffeecupOrderTakerTouch.exe
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\CoffeecupOrderTakerTouch.pdb
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.Resources.resources
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.exe.licenses
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.exe
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.pdb
+D:\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.XtraForm1.resources
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\Microsoft.CSharp.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupOrderTakerTouch.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupDigitalDashboard.frmSetPermission.resources
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupDigitalDashboard.Resources.resources
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\CoffeecupDigitalDashboard.XtraForm1.resources
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\Coffeecup Digital Dashboard.exe.config
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\Coffeecup Digital Dashboard.exe
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\bin\Debug\Coffeecup Digital Dashboard.pdb
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\Coffeecup Digital Dashboard.exe.licenses
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\Coffeecup Digital Dashboard.exe
+C:\My Files\My.Net\System Core\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\CoffeecupOrderTakerTouch\obj\Debug\Coffeecup Digital Dashboard.pdb
